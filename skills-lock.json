@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "esp32": {
+      "source": "jonatronblah/skillz",
+      "sourceType": "github",
+      "skillPath": "esp32/SKILL.md",
+      "computedHash": "913fa26aac8b1217f0d4d9e14db905800186019a7a1b15a56c1c9171d4e64a24"
+    }
+  }
+}
